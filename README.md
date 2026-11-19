@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Kanav
 
-<!--
-**jainkanav1788-max/jainkanav1788-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Physics student at the University of Hong Kong, on the computational physics track with a second major in Risk Management. I like problems where physics, data and code meet.
 
-Here are some ideas to get you started:
+**What I'm working on**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Kaifong (街坊)**: a daily AI phone check-in for older people living alone in Hong Kong. Started at a hackathon, now in the HKU Seed programme.
+
+**AI-Magician**: a Streamlit app built on Google's Gemini API that turns an object you type in into a magic trick.
+
+Physics simulations and data analysis from my coursework (coming soon).
+
+**Interested in:** computational physics, astronomy, ML for physical systems.
+
+**Reach me:** jainkanav1788@gmail.com
